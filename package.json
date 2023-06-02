@@ -1,15 +1,14 @@
 {
-  "type": "module",
   "dependencies": {
-    "esbuild": "0.17.19"
+    "esbuild": "0.17.19",
+    "require-from-string": "^2.0.2"
   },
   "name": "@mishushakov/ts-load",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
