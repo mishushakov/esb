@@ -3,7 +3,7 @@
   "dependencies": {
     "esbuild": "0.17.19"
   },
-  "name": "ts-load",
+  "name": "@mishushakov/ts-load",
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
