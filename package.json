@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "esbuild": "0.17.19",
+    "esbuild": "0.25.0",
     "require-from-string": "^2.0.2"
   },
   "name": "@mishushakov/ts-load",
